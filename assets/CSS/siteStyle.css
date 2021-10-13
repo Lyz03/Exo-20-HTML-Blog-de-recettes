@@ -1,0 +1,82 @@
+
+html {
+    background-color: darkgray;
+}
+
+body {
+    background-color: aliceblue;
+    width: 60%;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 7px solid lightslategrey;
+    font-family: sans-serif;
+}
+
+h1 , h2 {
+    font-family: cursive;
+    color: lightslategrey;
+    text-align: center;
+    border: lightslategrey double;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: lightslategrey;
+    font-style: italic;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: lightslategrey solid;
+    width: 100%;
+}
+
+th {
+    border: lightslategrey solid;
+    text-align: center;
+}
+
+td {
+    border: lightslategrey solid;
+    text-align: center;
+}
+
+hr {
+    border-top: lightslategrey solid;
+    border-radius: 6px;
+    height: 3px;
+}
+
+.ingredients {
+    margin: auto;
+    width: 35%;
+    border: lightslategrey dashed;
+}
+
+.ustensiles {
+    margin: 5% auto;
+    width: 35%;
+    border: lightslategrey dashed;
+}
+
+.images {
+    max-width: 100%;
+    height: 300px;
+    width: auto;
+}
+
+.images_center {
+    text-align: center;
+}
+
+#listImages {
+    padding-left: 30%;
+    list-style-type: none;
+}
+
+
+
