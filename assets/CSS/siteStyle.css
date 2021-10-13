@@ -4,12 +4,15 @@ html {
 }
 
 body {
-    background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+main {
     width: 60%;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
     border: 7px solid lightslategrey;
-    font-family: sans-serif;
+    background-color: aliceblue;
 }
 
 h1 , h2 {
